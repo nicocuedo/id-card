@@ -95,7 +95,7 @@ body{
 }
 
 @media (max-width:640px){
-	.container{
+	.card-container{
 		display: block;
 		width:450px;
 
